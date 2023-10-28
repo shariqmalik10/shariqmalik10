@@ -18,7 +18,7 @@ I am a Web Developer and currently exploring Machine Learning.
 
 - :telescope: I’m a Final Year Computer Science student at Monash University and working on fun web dev projects using the odin project course as well as exploring Machine Learning. 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring the world of Machine Learning.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -35,7 +35,6 @@ I am a Web Developer and currently exploring Machine Learning.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
