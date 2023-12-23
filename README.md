@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 I am a Web Developer and currently exploring Machine Learning. 
 
-- :telescope: I’m a Final Year Computer Science student at Monash University and working on fun web dev projects using the odin project course as well as exploring Machine Learning. 
+- :telescope: I’m a Computer Science graduate and working on fun web dev projects using the odin project course as well as exploring Machine Learning. 
 
 - :seedling: Exploring the world of Machine Learning.
 
