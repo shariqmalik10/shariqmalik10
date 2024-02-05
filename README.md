@@ -14,15 +14,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Web Developer and currently exploring Machine Learning. 
+I am a aspiring data scientist and currently exploring Machine Learning. 
 
-- :telescope: I’m a Computer Science graduate and working on fun web dev projects using the odin project course as well as exploring Machine Learning. 
+- :telescope: I’m a Computer Science graduate and working on fun ML and web dev projects. 
 
 - :seedling: Exploring the world of Machine Learning.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I listen to podcasts and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-nadeem-malik-ba1a2020b/)
+- :mailbox:How to reach me: [Email](shariqnadeem21@hotmail.com)
 
 ---
 
