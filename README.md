@@ -56,6 +56,6 @@ I am a aspiring data scientist and currently exploring Machine Learning.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=road_trip&pixelate_avatar=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://pixel-profile.vercel.app/api/github-stats?username=shariqmalik10&theme=road_trip&pixelate_avatar=false)](https://git.io/streak-stats)
 
 
